@@ -2,8 +2,11 @@
 
 
 This program will allow you to keep track of the car prices on copart.com. To use it, you need to install
+
 -beautiful soup 4
+
 -selenium
+
 -google chrome
 
 They can be installed with
